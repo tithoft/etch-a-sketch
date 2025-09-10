@@ -3,3 +3,11 @@
     flex-wrap: wrap;
     width: 640px;
 }
+
+.square {
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgba(0, 0, 0, 0.159);
+    box-sizing: border-box;
+    background-color: white;
+}
